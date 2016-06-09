@@ -1,0 +1,17 @@
+{
+  "name": "Tennis-Game-Kata",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "node_modules/.bin/mocha"
+  },
+  "description": "Kata for Tennis Game",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "gulp": "^3.9.1",
+    "gulp-mocha": "^2.2.0",
+    "gulp-util": "^3.0.7",
+    "lodash": "^4.13.1",
+    "mocha": "^2.5.3"
+  }
+}
